@@ -14,3 +14,4 @@ Software Engineering Student in WZBC| AI & Web Development
 - Intelligent Outline Generator for Classroom PPT Photos
 - Evidence-Map
 - Pre-FoG Prediction Research
+- Source Trace skill
