@@ -1,7 +1,7 @@
 
 # Hi, I'm LA
 
-Software Engineering Student in WZBC| AI & Web Development
+Software Engineering Student in WZBC|
 
 ## Personal Website
 
